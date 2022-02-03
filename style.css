@@ -28,10 +28,25 @@ table{
 p{
     font-size: 20px;
     line-height: 25px;
+    display: inline-block;
 }
+
 
 a{
     color: black;
+}
+
+.lado-esquerdo, .lado-direito{
+    background-color: aqua;
+    max-width: 500px;
+}
+
+ article{
+    display: inline-block;
+}
+
+aside{
+    display: inline-block;
 }
 
 
